@@ -1,0 +1,117 @@
+{
+  "_fv": 27,
+  "_type": "biome",
+  "definition": {
+    "name": "Wellynte",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.WATER"
+    },
+    "ambientSound": {
+      "value": "ambient.soul_sand_valley.loop"
+    },
+    "additionsSound": {
+      "value": "ambiant.basalt_deltas.additions"
+    },
+    "music": {
+      "value": "music.creative"
+    },
+    "moodSound": {
+      "value": "CUSTOM:anbience1"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "PLAINS",
+    "rainingPossibility": 0.30000000000000004,
+    "temperature": 0.5,
+    "baseHeight": 0.2,
+    "heightVariation": 0.30000000000000004,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "spawnBiomeNether": true,
+    "spawnInCaves": true,
+    "biomeWeight": 8,
+    "biomeDictionaryTypes": [
+      "OVERWORLD"
+    ],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 1,
+    "flowersPerChunk": 7,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 6,
+    "gravelPatchesPerChunk": 7,
+    "reedsPerChunk": 2,
+    "cactiPerChunk": 1,
+    "treesPerChunk": 5,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 10,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": true,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": true,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:DrTrayaurus"
+        },
+        "minGroup": 1,
+        "maxGroup": 26,
+        "weight": 22,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityVillager"
+        },
+        "minGroup": 1,
+        "maxGroup": 26,
+        "weight": 46,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

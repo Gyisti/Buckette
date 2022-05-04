@@ -1,0 +1,413 @@
+{
+  "mod_elements": [
+    {
+      "name": "BucketteItem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckette_item"
+    },
+    {
+      "name": "Buckette",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckette"
+    },
+    {
+      "name": "DrTrayaurus",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dr_trayaurus"
+    },
+    {
+      "name": "BucketteMade",
+      "type": "tag",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckette_made"
+    },
+    {
+      "name": "FarAwayMK2",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "far_away_mk_2"
+    },
+    {
+      "name": "BedrockOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_ore_block"
+    },
+    {
+      "name": "BedrockOre1",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_ore_1"
+    },
+    {
+      "name": "BedrockOreSpawn",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_ore_spawn"
+    },
+    {
+      "name": "BedrockSword",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_sword"
+    },
+    {
+      "name": "Bedswordt3",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedswordt_3"
+    },
+    {
+      "name": "TDMLabJianZaoWunoinsutansugaShengChengsaretaShi",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tdm_lab_jian_zao_wunoinsutansuga_sheng_chengsareta_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TDMLab",
+      "type": "structure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tdm_lab"
+    },
+    {
+      "name": "YouDiscoveredLab",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_discovered_lab"
+    },
+    {
+      "name": "Discove",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "discove",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wellynte",
+      "type": "biome",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wellynte"
+    },
+    {
+      "name": "DiamondMinecart",
+      "type": "livingentity",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_minecart"
+    },
+    {
+      "name": "Grimm",
+      "type": "livingentity",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grimm"
+    },
+    {
+      "name": "BucketteMob",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckette_mob"
+    },
+    {
+      "name": "ScaredZombie",
+      "type": "livingentity",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scared_zombie"
+    },
+    {
+      "name": "DoSpawnVoidNearParticles",
+      "type": "gamerule",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doSpawnVoidNearParticles",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "VoidNearParticles",
+      "type": "particle",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "void_near_particles"
+    },
+    {
+      "name": "Calm4",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calm_4"
+    },
+    {
+      "name": "BedrockArmorShirtArmor",
+      "type": "armor",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor_shirt_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BedrockArmorShirtArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor_shirt_armor_helmet_recipe"
+    },
+    {
+      "name": "BedrockArmorShirtArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor_shirt_armor_body_recipe"
+    },
+    {
+      "name": "BedrockArmorShirtArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor_shirt_armor_leggings_recipe"
+    },
+    {
+      "name": "BedrockArmorShirtArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor_shirt_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "far-away_mk2",
+      "files": [
+        "y2mate.com-far-away-mk2-no-copyright-music"
+      ],
+      "category": "music",
+      "subtitle": "Far Away - MK2 Playing"
+    },
+    {
+      "name": "kirby_gour",
+      "files": [
+        "kird"
+      ],
+      "category": "music",
+      "subtitle": "Kirby Gourmet Race Playing"
+    },
+    {
+      "name": "explosion1",
+      "files": [
+        "explosion1"
+      ],
+      "category": "block",
+      "subtitle": "Explosion Sound"
+    },
+    {
+      "name": "anbience1",
+      "files": [
+        "ambience1"
+      ],
+      "category": "ambient",
+      "subtitle": "Anbience sound"
+    },
+    {
+      "name": "calm4.ogg",
+      "files": [
+        "calm4"
+      ],
+      "category": "music",
+      "subtitle": "Calm 4 Playing"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "entity.buckette.scared_zombie": "Scared Zombie",
+      "subtitles.explosion1": "Explosion Sound",
+      "item.buckette.bedrock_armor_shirt_armor_chestplate": "BedrockArmorShirt Chestplate",
+      "entity.buckette.grimm": "Grimm",
+      "item.buckette.diamond_minecart_spawn_egg": "Diamond Minecart Spawn Egg",
+      "item.buckette.calm_4": "calm4.ogg",
+      "advancements.you_discovered_lab.title": "You Discovered Lab!",
+      "subtitles.kirby_gour": "Kirby Gourmet Race Playing",
+      "entity.buckette.dr_trayaurus": "dr Trayaurus",
+      "item.buckette.bedrock_ore_1": "Bedrock Ore",
+      "item.buckette.dr_trayaurus_spawn_egg": "dr Trayaurus Spawn Egg",
+      "subtitles.anbience1": "Anbience sound",
+      "itemGroup.tabbuckette": "Buckette",
+      "item.buckette.bedrock_armor_shirt_armor_helmet": "BedrockArmorShirt Helmet",
+      "item.buckette.far_away_mk_2": "Far Away MK 2",
+      "gamerule.doSpawnVoidNearParticles.description": "Under Construct",
+      "item.buckette.calm_4.desc": "notch delete this",
+      "item.buckette.bedrock_armor_shirt_armor_leggings": "BedrockArmorShirt Leggings",
+      "item.buckette.far_away_mk_2.desc": "oh yeaj",
+      "item.buckette.bedrock_armor_shirt_armor_boots": "BedrockArmorShirt Boots",
+      "subtitles.far-away_mk2": "Far Away - MK2 Playing",
+      "biome.buckette.wellynte": "Wellynte",
+      "entity.buckette.diamond_minecart": "Diamond Minecart",
+      "item.buckette.bedrock_sword": "Bedrock Sword",
+      "advancements.you_discovered_lab.descr": "You discovered the DanTDM\u0027s old lab!",
+      "item.buckette.buckette_item": "Buckette Item",
+      "subtitles.kirby_gorn": "",
+      "block.buckette.bedrock_ore_block": "Bedrock Ore Block",
+      "item.buckette.scared_zombie_spawn_egg": "Scared Zombie Spawn Egg",
+      "item.buckette.grimm_spawn_egg": "Grimm Spawn Egg",
+      "gamerule.doSpawnVoidNearParticles": "Do spawn particles on near void cordinates?(Under Construct)",
+      "itemGroup.tabbuckette_mob": "Buckette - Mob",
+      "subtitles.calm4.ogg": "Calm 4 Playing"
+    },
+    "ja_jp": {
+      "entity.buckette.scared_zombie": "Scared Zombie",
+      "subtitles.explosion1": "爆発音",
+      "item.buckette.bedrock_armor_shirt_armor_chestplate": "BedrockArmorShirt Chestplate",
+      "entity.buckette.grimm": "Grimm",
+      "item.buckette.diamond_minecart_spawn_egg": "ダイヤモンドトロッコをスポーン",
+      "item.buckette.calm_4": "calm4.ogg",
+      "advancements.you_discovered_lab.title": "You Discovered Lab!",
+      "subtitles.kirby_gour": "カービィグルメレースが再生されている",
+      "entity.buckette.dr_trayaurus": "Dr Trayaurus",
+      "item.buckette.bedrock_ore_1": "岩盤鉱石",
+      "item.buckette.dr_trayaurus_spawn_egg": "Drトラヤールスをスポーン",
+      "subtitles.anbience1": "環境音",
+      "itemGroup.tabbuckette": "バックエト",
+      "item.buckette.bedrock_armor_shirt_armor_helmet": "BedrockArmorShirt Helmet",
+      "item.buckette.far_away_mk_2": "Far Away - MK2が再生されている",
+      "gamerule.doSpawnVoidNearParticles.description": "if this enabled, the particles spawned on near void cordinates.",
+      "item.buckette.calm_4.desc": "削除済み",
+      "item.buckette.bedrock_armor_shirt_armor_leggings": "BedrockArmorShirt Leggings",
+      "item.buckette.far_away_mk_2.desc": "oh yeaj",
+      "item.buckette.bedrock_armor_shirt_armor_boots": "BedrockArmorShirt Boots",
+      "subtitles.far-away_mk2": "Far Away - MK2 Playing",
+      "biome.buckette.wellynte": "ウェリンテバイオーム",
+      "entity.buckette.diamond_minecart": "ダイヤモンドトロッコ",
+      "item.buckette.bedrock_sword": "岩盤の剣",
+      "advancements.you_discovered_lab.descr": "貴方はDanTDMの昔のラボを探検しました！",
+      "item.buckette.buckette_item": "バックエトアイテム",
+      "subtitles.kirby_gorn": "",
+      "block.buckette.bedrock_ore_block": "岩盤鉱石ブロック",
+      "item.buckette.scared_zombie_spawn_egg": "怖がりゾンビをスポーン",
+      "item.buckette.grimm_spawn_egg": "グリムをスポーン",
+      "gamerule.doSpawnVoidNearParticles": "Do spawn particles on near void cordinates?",
+      "itemGroup.tabbuckette_mob": "バックエトモブ",
+      "subtitles.calm4.ogg": "Calm 4が再生されている"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "buckette",
+    "modName": "Buckette",
+    "version": "1.0.0",
+    "description": "The mod adds some mob, block, ore and etc.",
+    "author": "user, MCreator",
+    "websiteURL": "https://github.com/script1000",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo_0",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "This Mod created by user and Made with Using MCreator by Pylo",
+    "modElementsPackage": "org.gyisti.buckette",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200115515
+}

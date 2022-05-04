@@ -1,0 +1,17 @@
+{
+  "_fv": 27,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "musicdisc_famk2",
+    "name": "Far Away MK 2",
+    "description": "oh yeaj",
+    "creativeTab": {
+      "value": "CUSTOM:Buckette"
+    },
+    "music": {
+      "value": "CUSTOM:far-away_mk2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

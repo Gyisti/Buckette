@@ -1,0 +1,17 @@
+{
+  "_fv": 27,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "oooooooooooooooooooooo",
+    "name": "calm4.ogg",
+    "description": "notch delete this",
+    "creativeTab": {
+      "value": "CUSTOM:Buckette"
+    },
+    "music": {
+      "value": "CUSTOM:calm4.ogg"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

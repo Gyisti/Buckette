@@ -1,0 +1,11 @@
+{
+  "_fv": 27,
+  "_type": "tab",
+  "definition": {
+    "name": "Buckette - Mob",
+    "icon": {
+      "value": "Items.SPAWN_EGG#120"
+    },
+    "showSearch": true
+  }
+}

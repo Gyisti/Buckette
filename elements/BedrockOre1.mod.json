@@ -1,0 +1,34 @@
+{
+  "_fv": 27,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrock_ore1",
+    "customModelName": "Normal",
+    "name": "Bedrock Ore",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Buckette"
+    },
+    "stackSize": 64,
+    "enchantability": 43,
+    "useDuration": 0,
+    "toolType": 4.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 8.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false
+  }
+}

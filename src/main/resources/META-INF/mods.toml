@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="buckette"
+version="1.0.0"
+displayName="Buckette"
+credits="This Mod created by user and Made with Using MCreator by Pylo"
+displayURL="https://github.com/script1000"
+logoFile="logo.png"
+authors="user, MCreator"
+description='''
+The mod adds some mob, block, ore and etc.
+'''
+
+[[dependencies.buckette]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

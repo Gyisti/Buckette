@@ -1,0 +1,23 @@
+{
+  "_fv": 27,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:DrTrayaurus"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityVillager"
+      }
+    ],
+    "name": "follow-target-of_entities",
+    "namespace": "mod"
+  }
+}

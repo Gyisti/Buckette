@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "buckette:buckette_item"
+    },
+    "title": {
+      "translate": "advancements.you_discovered_lab.title"
+    },
+    "description": {
+      "translate": "advancements.you_discovered_lab.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "you_discovered_lab": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

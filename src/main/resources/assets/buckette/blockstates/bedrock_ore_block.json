@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "buckette:block/bedrock_ore_block"
+    }
+  }
+}

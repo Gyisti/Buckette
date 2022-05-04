@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "1": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "2": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "3": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "5": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "6": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "8": {
+      "item": "minecraft:diamond_chestplate"
+    }
+  },
+  "result": {
+    "item": "buckette:bedrock_armor_shirt_armor_leggings",
+    "count": 1
+  }
+}

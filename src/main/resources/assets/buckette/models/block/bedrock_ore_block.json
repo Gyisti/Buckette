@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "buckette:blocks/bedrock_ore",
+    "particle": "buckette:blocks/bedrock_ore"
+  }
+}

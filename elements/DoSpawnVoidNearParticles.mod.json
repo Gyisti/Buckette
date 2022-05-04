@@ -1,0 +1,12 @@
+{
+  "_fv": 27,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Do spawn particles on near void cordinates?(Under Construct)",
+    "description": "Under Construct",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "far-away_mk2": {
+    "category": "music",
+    "subtitle": "subtitles.far-away_mk2",
+    "sounds": [
+      {
+        "name": "buckette:y2mate.com-far-away-mk2-no-copyright-music",
+        "stream": true
+      }
+    ]
+  },
+  "kirby_gour": {
+    "category": "music",
+    "subtitle": "subtitles.kirby_gour",
+    "sounds": [
+      {
+        "name": "buckette:kird",
+        "stream": true
+      }
+    ]
+  },
+  "explosion1": {
+    "category": "block",
+    "subtitle": "subtitles.explosion1",
+    "sounds": [
+      {
+        "name": "buckette:explosion1",
+        "stream": false
+      }
+    ]
+  },
+  "anbience1": {
+    "category": "ambient",
+    "subtitle": "subtitles.anbience1",
+    "sounds": [
+      {
+        "name": "buckette:ambience1",
+        "stream": false
+      }
+    ]
+  },
+  "calm4.ogg": {
+    "category": "music",
+    "subtitle": "subtitles.calm4.ogg",
+    "sounds": [
+      {
+        "name": "buckette:calm4",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 27,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrocksword",
+    "customModelName": "Normal",
+    "name": "Bedrock Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Buckette"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.5,
+    "attackSpeed": 4.0,
+    "enchantability": 6,
+    "damageVsEntity": 28.0,
+    "usageCount": 12245,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BedrockOre1"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
